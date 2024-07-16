@@ -1,2 +1,2 @@
 # BJ
-interpret my code for BJ
+interpret my code for Baekjoon
